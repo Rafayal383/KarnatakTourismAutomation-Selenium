@@ -1,0 +1,114 @@
+
+Test Strategy of Karnataka Tourist Project
+
+Overview
+
+1. Karnataka Tourism is the official website of the Karnataka State Tourism 
+Department, which promotes tourism in the southern state of Karnataka, India. 
+The website offers a wealth of information about Karnataka's tourism 
+attractions, including its rich culture, history, natural beauty, and various 
+adventure activities.
+Surrounded by bountiful laps of nature and wildlife, heritage sites and 
+monuments of high historical significance, aromatic coffee trails, irresistible 
+cuisines and much more. It promotes tourism places of Karnataka. This website 
+attracts people to visit Karnataka.
+2. Come and explore the hidden gems of Karnataka. The sixth largest state in 
+India is famous for its wildlife, heritage, temples, monuments, beaches, 
+adventure, food and much more.
+3. Karnataka tourism will help people to give an overview of the destinations 
+present in the South-India
+4. Karnataka tourism provides Planned tour packages with limited or lower 
+prices.
+
+
+Scope:
+
+A. In Scope:
+1. Destination Information: Providing comprehensive information about popular 
+tourist destinations in Karnataka, including historical landmarks, natural 
+attractions, and cultural sites.
+2. Travel Planning: Offering travel planning tools such as accommodation and 
+transportation booking options, itinerary planning, and tour packages.
+3. Blog: Offering a blog section that provides travel tips, personal stories, and 
+informative articles about Karnataka's culture, history, and natural beauty.
+4. Interactive Map: Providing an interactive map of Karnataka that highlights 
+popular tourist destinations, local attractions, and travel routes.
+
+B. Out Scope:
+1. Political Content: The website should not feature any political content or promote any
+political agenda.
+2. Personal Services: The website should not provide personal services such as medical
+consultation, legal advice, or financial planning.
+3. Non-Tourism Related Information: The website should focus solely on promoting
+tourism in Karnataka and not include any unrelated content or information.
+
+
+Test Approach
+In this section, we usually define the following
+Test Level
+1. Unit Testing
+2. Integration Testing
+3. System Testing
+4. Acceptance Testing
+4.Test Types
+Black Box Testing: 
+Testing each model with all possibilities of inputs and outputs and their result. To check this 
+actual output with accepted output.
+ 
+Testing Team:
+1. Chaitali Dinesh Amale
+2. Aditya Kumar
+3. Preeti R Gondane
+4. Sanjay Rafayal
+5. Shubham Verma
+6. Mohd Nadeem
+7. Shivam Prakash Bharti
+8. Nandan Kumar Singh
+9. Prabhat Jain
+
+Roles and Responsibility
+Roles Responsibility
+Product Owner Requirements, Test Environment
+Testing Team Test Engineers, SDET
+
+
+Environment Requirements:
+oProduction
+Hardware Configuration:
+Processor      :                                                intel i3,intel i5,Ryzen 5.
+Ram                 :                                                4 to 12 GB
+Hard Disk      :                                                 512GB to 1TB
+Software Configuration:
+O/S                  :                                              Windows 8,10,11. 
+Browser         :                                               Chrome, IE ,Edge, Firefox.
+System Configuration  : 32bits, 64 bits
+
+Testing Tools
+Jira, Zephyr, selenium
+
+
+Test deliverables: 
+Test Strategy
+Test Plans 
+Test Cases
+Test Scenarios
+Test Reports
+
+Test summary: 
+We have executed some of the test cases and given the results.
+
+Approvals: 
+The following people are required to approve the Test Strategy
+Approved By Role Approved By Name
+Product Owner       Thiruvengadam S
+
+Team Members
+1. Chaitali Amale
+2. Aditya Kumar
+3. Preeti R Gondane
+4. Sanjay Rafayal
+5. Shubham Verma
+6. Mohd Nadeem
+7. Shivam Prakash Bharti
+8. Nandan Kumar Singh
+9. Prabhat Jain
